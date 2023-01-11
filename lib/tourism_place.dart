@@ -23,42 +23,42 @@ class TourismPlace {
 
 var TourismPlaceList = [
   TourismPlace(
-      name: "Rowo jombor klaten",
-      goal: "Tempat wisata",
+      name: "Gedung Songo",
+      goal: "Tempat Wisata pegunungan",
       description:
-          "Rowo Jombor berlokasi Dukuh Jombor, Desa Krakitan, Kecamatan Bayat. Jarak tempuh Rowo dari Kota Klaten sekitar 7,8 km dari pusat Kota Klaten. Hanya butuh waktu sekira 20 menit untuk sampai di Rowo Jombor bila menggunakan kendaraan.Rowo Jombor adalah waduk seluas 198 hektare dengan kedalaman hingga 4,5 meter. Dulu, Rowo Jombor dibangun untuk menampung air dari sungai-sungai di sekitarnya serta mengendalikan banjir. ",
+          "Candi Gedong Songo adalah nama sebuah kompleks bangunan candi peninggalan budaya Hindu yang terletak di desa Candi, Kecamatan Bandungan, Kabupaten Semarang, Jawa Tengah, Indonesia tepatnya di lereng Gunung Ungaran. Di kompleks candi ini terdapat sembilan buah candi",
       openDays: "Buka Setiap Hari",
-      openTime: "08.00 - 22.00",
-      ticketPrice: "Free",
-      imageAsset: 'images/rowo-jombor.jpeg',
+      openTime: "07.00 - 17.30",
+      ticketPrice: "15.000",
+      imageAsset: 'images/gsongo.jpg',
       imageUrls: [
-        "https://mytrip123.com/wp-content/uploads/2022/02/rowo-jombor.jpg",
-        "https://gotripina.com/wp-content/uploads/2019/03/Foto-keindahan-rowo-Jombor-di-Klaten-sumber-ig-@ghsssn_20.jpg",
-        "https://t-2.tstatic.net/jogja/foto/bank/images/penampakan-pembangunan-taman-dan-jogging-track-rawa-jombor.jpg"
+        "https://wisato.id/wp-content/uploads/2020/05/Puncak-Natas-Angin-Gunung-Muria-3-scaled.jpg",
+        "https://64.media.tumblr.com/34200cc1a5d899c6285a25d1c2d5b451/tumblr_objn1qLnWp1s5nja1o1_500.jpg",
+        "https://cdn.wisata.app/diary/f5ee83f6-4b87-46b9-9d44-67255347c7f0.jpg"
       ]),
   TourismPlace(
-      name: "Candi Prambanan",
+      name: "SAM POO KONG",
       goal: "Wisata Edukasi",
       description:
-          "Candi Prambanan merupakan candi Hindu yang terbesar di Indonesia. Sampai saat ini belum dapat dipastikan kapan candi ini dibangun dan atas perintah siapa, namun kuat dugaan bahwa Candi Prambanan dibangun sekitar pertengahan abad ke-9 oleh raja dari Wangsa Sanjaya, yaitu Raja Balitung Maha Sambu. Dugaan tersebut didasarkan pada isi Prasasti Syiwagrha yang ditemukan di sekitar Prambanan dan saat ini tersimpan di Museum Nasional di Jakarta. Prasasti berangka tahun 778 Saka (856 M) ini ditulis pada masa pemerintahan Rakai Pikatan.",
+          "Kelenteng Gedung Kuno Sam Poo Kong yaitu bekas tempat persinggahan dan pendaratan pertama seorang Laksamana Tiongkok beragama Islam yang bernama Zheng He/Cheng Ho, yang juga dikenal dengan nama Sam Poo. Tidak semua anak buah kapal beragama Islam.",
       openDays: "Buka Setiap Hari",
-      openTime: "06.30 - 17.00",
-      ticketPrice: "Rp50.000",
-      imageAsset: 'images/prambanan.jpg',
+      openTime: "08.00 - 18.00",
+      ticketPrice: "Rp10.000",
+      imageAsset: 'images/sampokong.jpg',
       imageUrls: [
         "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200/https://widyalokawisata.com/wp-content/uploads/2020/03/CANDI-PRAMBANAN-7.jpg",
         "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200/https://widyalokawisata.com/wp-content/uploads/2020/03/CANDI-PRAMBANAN-1.jpg",
         "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200/https://widyalokawisata.com/wp-content/uploads/2020/03/CANDI-PRAMBANAN-2.jpeg"
       ]),
   TourismPlace(
-      name: "Taman Bunga Celosia",
+      name: "Masjid Agung Jawa Tengah (MAJT)",
       goal: "Spot Foto",
       description:
-          "Pengunjung yang datang ke Taman Bunga Celosia tak hanya ingin menikmati keindahan taman bunga. Sebagian datang untuk berfoto sambil menikmati udara segar kaki Gunung Ungaran. Beberapa spot foto menarik ada di jembatan kaca, lorong tanpa batas, taman kaktus, rainbow wisteria, vertical garden, tropical garden, flowing hand, dan masih banyak lagi. Pengunjung juga bisa mengunjungi little Korea untuk menyewa hanbok yang bisa digunakan sebagai properti berfoto.",
+          "Masjid Agung Jawa Tengah adalah masjid yang terletak di Semarang, provinsi Jawa Tengah, Indonesia. Masjid ini mulai dibangun sejak tahun 2001 hingga selesai secara keseluruhan pada tahun 2006. Masjid ini berdiri di atas lahan 10 hektare.",
       openDays: "Buka Setiap Hari",
-      openTime: "08.00 - 17.00",
-      ticketPrice: "Rp25.000",
-      imageAsset: 'images/celosia.jpg',
+      openTime: "00.00 - 24.00",
+      ticketPrice: "free",
+      imageAsset: 'images/majt.jpeg',
       imageUrls: [
         "https://asset.kompas.com/crops/ncrUsxqC3SoMWjNpK6W-ZBddrhQ=/1x0:960x640/750x500/data/photo/2022/05/29/62936b8fd4a6c.jpg",
         "https://asset.kompas.com/crops/V9uPoxMFdjncpHkYT7gRn_xX5B8=/0x57:882x645/750x500/data/photo/2021/12/26/61c85cc01f974.png",
@@ -79,18 +79,32 @@ var TourismPlaceList = [
         "https://blog.tiket.com/wp-content/uploads/Taman-Pintar-Yogyakarta_Blog-new-update-mei2020-IND.jpg"
       ]),
   TourismPlace(
-      name: "Museum Mandala Bhakti",
+      name: "Museum Ranggawarsito",
       goal: "Wisata Edukasi",
       description:
-          "Dilansir dari laman Asosiasi Museum Indonesia, Museum Mandala Bhakti menyimpan banyak data, dokumentasi, hingga persenjataan TNI yang tradisional hingga modern. Museum Mandala Bhakti menempati gedung tua yang semula dirancang untuk Raad van Justitie atau Pengadilan Tinggi bagi golongan rakyat Eropa di Semarang.",
-      openDays: "Senin - Sabtu",
+          "Museum Negeri Provinsi Jawa Tengah Ronggowarsito adalah museum yang diresmikan dalam pemanfaatannya untuk masyarakat oleh Menteri Pendidikan dan Kebudayaan Prof. Dr. Fuad Hassan pada tanggal 5 Juli 1989.",
+      openDays: "Selasa - Minggu",
       openTime: "08.00 - 15.00",
-      ticketPrice: "Free",
+      ticketPrice: "6.000",
       imageAsset: 'images/mandala.jpeg',
       imageUrls: [
         "https://2.bp.blogspot.com/-kNIlpz_12H0/Wflu6XcWuuI/AAAAAAAACYQ/aUsZALFuERESSfazgIwG9amyQlfrgzz0ACLcBGAs/s400/FullSizeRender%2B%25285%2529.jpg",
         "https://asset.kompas.com/data/photo/2015/08/03/1615241prajurit-museum780x390.jpg",
         "https://asset.kompas.com/data/photo/2015/08/03/1619042mandalaaaa780x390.jpg"
+      ]),
+  TourismPlace(
+      name: "Lawang Sewu",
+      goal: "Wisata Edukasi",
+      description:
+          "Lawang Sewu adalah bangunan perkantoran yang terletak di seberang Tugu Muda, Kota Semarang, Jawa Tengah, Indonesia, yang dibangun sebagai kantor pusat Nederlandsch-Indische Spoorweg Maatschappij (NIS). Bangunan ini berstatus sebagai aset Kereta Api Indonesia (KAI) karena merupakan buah dari perebutan NIS oleh Djawatan Kereta Api Republik Indonesia (DKARI) pada masa Perang Kemerdekaan. Saat ini bangunan tersebut dijadikan sebagai museum dan galeri sejarah perkeretaapian oleh Unit Pusat Pelestarian dan Desain Arsitektur dan KAI Wisata.",
+      openDays: "Buka Setiap Hari",
+      openTime: "08.00 - 20.00",
+      ticketPrice: "Rp20.000",
+      imageAsset: 'images/lawang.jpg',
+      imageUrls: [
+        "https://cdn0-production-images-kly.akamaized.net/7-zHE6lvfLezx7GsbnBWoFMkBU8=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2747209/original/013661800_1552188191-4__8_.jpg",
+        "https://asset.kompas.com/crops/ng3V0bqjkvMak-i4TBDa5-WUk_0=/0x0:0x0/750x500/data/photo/2022/05/18/6284eff8eb5fa.jpg",
+        "https://www.kepogaul.com/wp-content/uploads/2018/07/000191-00_wisata-lawang-sewu-semarang_lawang-sewu_800x450_ccpdm-min-800x450.jpg.webp"
       ]),
   TourismPlace(
       name: "Kota Lama",
